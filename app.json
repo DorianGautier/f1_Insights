@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "F1_stats",
-    "slug": "F1_stats",
+    "name": "F1_Insights",
+    "slug": "F1_Insights",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
